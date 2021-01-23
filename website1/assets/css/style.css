@@ -1,17 +1,46 @@
 body{
-    background: #BDBDBD;
+    background-color: #f9f9f9;
 }
 
-.first-header-container{
-    background-color: #f9f9f9;
-    min-height: 85vh;
+.first-header-container, .contact-container, .portfolio-container, .services-container, .tagline-container{
+    min-height: 90vh;
 }
 
 .photo1{
-    width: 85%;
+    width: 75%;
 }
 
 .title-first-header{
     font-size: xx-large;
     font-weight: 625;
+}
+
+.first-header-container{
+   padding-top: 65px;
+}
+
+.project-container{
+    width: 32%;
+}
+
+.text-project{
+    color: rgb(50, 108, 156);
+}
+.image-container{
+background-image: url('../img/bg.jpg'); 
+  background-size: cover; 
+  background-position: right bottom;
+  min-height: 95vh;
+}
+
+.title{
+    background-color: rgba(230, 225, 225, 0.822);
+}
+
+.text1{
+    font-size: 10vw;
+}
+
+.text2{
+    font-size: 5.5vw;
 }
