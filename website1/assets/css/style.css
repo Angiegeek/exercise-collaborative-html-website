@@ -1,3 +1,17 @@
 body{
     background: #BDBDBD;
 }
+
+.first-header-container{
+    background-color: #f9f9f9;
+    min-height: 85vh;
+}
+
+.photo1{
+    width: 85%;
+}
+
+.title-first-header{
+    font-size: xx-large;
+    font-weight: 625;
+}
